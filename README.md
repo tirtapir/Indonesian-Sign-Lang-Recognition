@@ -1,0 +1,3 @@
+# Indonesian-Sign-Lang-Recognition
+
+Proyek ini dirancang sebagai materi studi untuk memahami pengaplikasian computer vision dalam pengenalan aksi dan Bahasa Isyarat Indonesia. Dengan kombinasi tech stack dan dataset terbatas tanpa mengurangi pemahaman fundamental modeling, proyek ini menunjukkan bagaimana model pembelajaran mesin dapat digunakan untuk aplikasi pengenalan isyarat maupun kemampuan actions recognition lainnya dalam skenario dunia nyata.
